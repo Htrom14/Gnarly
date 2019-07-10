@@ -1,0 +1,4 @@
+1. Create a base bot
+2. Learn ros and use ros
+3. Interpret surroundings 
+4. Path planning
