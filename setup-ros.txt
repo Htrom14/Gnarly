@@ -1,0 +1,4 @@
+Step 1. Download ubuntu 14.04 iso
+Step 2. Spin up ubuntu vm, using any hypervisor, with as much processing power as possible and at least 30 gb of memory
+Step 3. Begin installation of ROS indigo following this link: http://wiki.ros.org/indigo/Installation
+Step 4. Download turtle bot onto vm using following link: http://wiki.ros.org/turtlebot/Tutorials/indigo/Turtlebot%20Installation
